@@ -1,25 +1,21 @@
-# LAB 1. Javascript objetos y arrays.
+# LAB 1. Javascript expresiones
 ## Objetivos
-1. Practicar con objetos y vectores.
-2. Acceder a objetos dentro de arrays
-3. Usar la operacion filter
-4. Usar la operacion map con arrays
-5. Usar la operacion find
-6. Usar la operacione reduce
+1. Fechas
+2. Math function
+3. Logic expression
+
 
 ## Requerimientos.
 1. Fork este repositorio
 2. Clone este repositorio
 
 ## Tareas a realizar
-1. Instalar las dependiencias del proyecto. Despues de hacer git clone
-2. Codificar la funciones en el fichero app.js
-3. Hacer npm run test, cuando se quiera ver si los algoritmos funcionan. npm run test se puede hacer tantas veces como se quiera
+1. Instalar las dependiencias del proyecto con bun install, despues de hacer git clone
+2. Codificar las funciones en los ficheros js
+3. Hacer bun  run test para probar. Analizar la salida
 4. La tarea estara acabada cuando todos los test esten pasados.
 
-## Recursos.
-1. Javascript arrays y objetos
-2. Javascript filter, map, find, reduce
+
 
 
 
